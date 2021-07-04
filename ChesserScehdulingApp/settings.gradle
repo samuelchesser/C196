@@ -1,0 +1,2 @@
+rootProject.name = "Chesser Scehduling App"
+include ':app'
